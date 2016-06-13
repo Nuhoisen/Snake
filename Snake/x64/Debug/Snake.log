@@ -1,0 +1,6 @@
+﻿  SnakeBoard.cpp
+c:\users\kelly\documents\visual studio 2015\projects\snake\snake\snakeboard.cpp(10): warning C4309: 'initializing': truncation of constant value
+c:\users\kelly\documents\visual studio 2015\projects\snake\snake\snakeboard.cpp(27): warning C4309: 'argument': truncation of constant value
+c:\users\kelly\documents\visual studio 2015\projects\snake\snake\snakeboard.cpp(43): warning C4309: 'argument': truncation of constant value
+c:\users\kelly\documents\visual studio 2015\projects\snake\snake\snakeboard.cpp(92): warning C4101: 'tempCoord': unreferenced local variable
+  Snake.vcxproj -> C:\Users\kelly\Documents\Visual Studio 2015\Projects\Snake\x64\Debug\Snake.exe
