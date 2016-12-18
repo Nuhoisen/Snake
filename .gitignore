@@ -7,3 +7,9 @@ Snake.sdf
 Snake.sln
 
 /.vs
+
+/Snake/Debug
+
+/Snake/x64/
+
+/Snake/x64/Debug
